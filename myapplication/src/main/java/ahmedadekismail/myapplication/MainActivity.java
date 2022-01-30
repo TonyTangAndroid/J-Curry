@@ -1,7 +1,7 @@
 package ahmedadekismail.myapplication;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 
 import com.functional.curry.Curry;
@@ -17,7 +17,6 @@ import org.javatuples.Pair;
 
 import java.util.Map;
 
-import io.reactivex.Maybe;
 import io.reactivex.Observable;
 import io.reactivex.Single;
 
